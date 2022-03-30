@@ -3,7 +3,7 @@ package test;
 public class NewClass {
 
 	public static void main(String[] args) {
-		System.out.println("Done");
+		System.out.println("Done Modifications !");
 	}
 
 }
